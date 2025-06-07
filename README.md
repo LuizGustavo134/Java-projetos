@@ -7,3 +7,8 @@
     who knows i we can work together?
 
     ################################################################################
+    Olá, meu nome é Luiz, mas você pode me chamar de Dev-Lu. Sou um desenvolvedor de software.
+    No momento, estou estudando a linguagem Java e suas tecnologias. Neste repositório,
+    estarão todos os projetos em Java nos quais estou trabalhando ou que já fiz. Então fique 
+    por aqui e acompanhe, quem sabe podemos trabalhar juntos?        
+    ################################################################################
