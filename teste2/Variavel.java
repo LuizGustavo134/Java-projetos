@@ -5,7 +5,8 @@ public class Variavel {
   public static void main(String[] args) {
     String name = "  luiz /idade: ";
     int idade =  19  ;
-    String endereco ="  /Rua dos alpelinos 345/"  ;
+    final String endereco ="  /Rua dos alpelinos 345/"  ;
+    /* use final+tipo de dado a ser usado para criar variaveis imutaveis que não podem ser receber outros valores posteriormente*/
     System.out.print(name);
     System.out.print(idade);
     System.out.print(endereco);
