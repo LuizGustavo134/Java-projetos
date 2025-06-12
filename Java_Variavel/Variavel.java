@@ -1,4 +1,4 @@
-package teste2;
+package java_Variavel;
 /* 1- Use sempre PACKAGE para especificar o caminho do pacote/pasta
    3- use o nome do arquivo quando for declarar uma classe se não fudeu */
 public class Variavel {
