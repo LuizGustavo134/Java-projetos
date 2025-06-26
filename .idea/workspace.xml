@@ -10,8 +10,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -25,16 +25,19 @@
   "keyToString": {
     "Aplicação.ContadorV1.executor": "Run",
     "Aplicação.ContadorV2.executor": "Run",
+    "Aplicação.Controle_notas.executor": "Run",
+    "Aplicação.Crud.executor": "Run",
+    "Aplicação.Lista.executor": "Run",
     "Aplicação.Relogio.ContadorV2.executor": "Run",
     "Aplicação.alunos.executor": "Run",
+    "Aplicação.calc.executor": "Run",
     "Aplicação.contadorV2.executor": "Run",
     "Aplicação.contadorV2_5.executor": "Run",
+    "Aplicação.lista2.executor": "Run",
     "Aplicação.relogio2.ContadorV2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/USER/OneDrive/Documentos/Área de Trabalho/Java-pro1",
+    "last_opened_file_path": "C:/Users/USER/OneDrive/Documentos/Java-pro1",
     "settings.editor.selected.configurable": "trusted.hosts"
   }
 }]]></component>

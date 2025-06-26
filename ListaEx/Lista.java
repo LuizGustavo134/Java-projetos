@@ -27,7 +27,7 @@ public class Lista {
                 equipe.add("Nome: "+nome+"/ Idade: "+idade+"/ Setor: "+setor); //mix
                 System.out.println("cadastro realizado");
             } else if (opt ==2 ) { // ficha de registros
-                for (String membro: equipe){ // usando for percorremos cada registro separado
+                for (String membro: equipe){ // usando for-each percorremos cada registro separado e
                 System.out.println(membro);}// armazenando na variavel temporaria membro
             } else if (opt==3) {
                 break;

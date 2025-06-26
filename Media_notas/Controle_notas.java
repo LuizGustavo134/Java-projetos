@@ -24,7 +24,6 @@ public class Controle_notas {
                     //idade
                     System.out.println("Digite sua idade: ");
                     int idade = scan.nextInt();
-
                     pessoas.put(nome,idade);
 
                     System.out.println("Cadastro realizado");
@@ -51,4 +50,4 @@ public class Controle_notas {
         }
 
     }
-}
+}// Parte do programa feito com IA;
