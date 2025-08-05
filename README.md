@@ -8,13 +8,8 @@
 
     ################################################################################
     Olá, meu nome é Luiz, mas você pode me chamar de Dev-Lu. Sou um desenvolvedor de software.
-<<<<<<< HEAD
-    No momento, estou estudando a linguagem Java e suas tecnologias. Neste repositório, estarão 
-    todos os projetos em Java nos quais estou trabalhando ou que já fiz. Então fique por aqui e 
-    acompanhe, quem sabe podemos trabalhar juntos?################################################################################
-=======
     No momento, estou estudando a linguagem Java e suas tecnologias. Neste repositório,
     estarão todos os projetos em Java nos quais estou trabalhando ou que já fiz. Então fique 
     por aqui e acompanhe, quem sabe podemos trabalhar juntos?        
     ################################################################################
->>>>>>> dd56fc33957311cdbe26b081b0c17a4d04b10c18
+
