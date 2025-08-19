@@ -1,11 +1,10 @@
 package Loterica;
-import Loterica.usuario.*;
-
-import java.util.ArrayList;
-
 public class Principal {
     public static void main(String[] args) {
-        usuario novo_cadastro = new usuario();
+        Registro novo_cadastro = new Registro();
        novo_cadastro.cadastrar();
+       //
+       usuario_BD novo_bd = new usuario_BD();
+       novo_bd.total_clientes();
     }
 }

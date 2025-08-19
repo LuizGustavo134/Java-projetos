@@ -3,23 +3,25 @@ package Loterica;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class usuario {
+//Atributos
+public class Registro {
     String nome;
     String email;
     String telefone;
 
-public usuario(){
+    //parametros () recebe os valores da proxima classe
+public Registro(){
     nome = "";
     email = "";
     telefone = "";
 }
-public usuario(String nom, String eml, String ag){
-nome = nom;
-email = eml;
-telefone = ag;
+public Registro(String nome, String email, String telefone){
+    this.nome = nome;
+    this.email = email;
+    this.telefone = telefone;
 }
 //////////////// CADASTRAR//////////////////////////
-public ArrayList cadastrar(){
+public Registro cadastrar(){
     ArrayList pessoa = new ArrayList();
     Scanner scan = new Scanner(System.in);
     System.out.println("Digite um nome: ");
@@ -27,12 +29,10 @@ public ArrayList cadastrar(){
     System.out.println("Digite um email: ");
     email = scan.nextLine();
     System.out.println("Digite um seu telefone: ");
+    telefone =scan.nextLine();
     pessoa.add("nome: "+nome+" "+"email: "+email+" "+telefone);
-    System.out.println(pessoa);
     System.out.println("Cadastrado com sucesso!");
-    scan.close();
-    return pessoa;
+scan.close();
+    return cadastrar();
 }
-//////////////REMOVER///////////////////
-    
 }

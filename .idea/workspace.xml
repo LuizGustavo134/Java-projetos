@@ -5,27 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed64a7b2-9a50-4d61-9c92-2cd9bcac9e70" name="Alterações" comment="">
-      <change afterPath="$PROJECT_DIR$/Loterica/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loterica/usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loterica/usuario_BD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loterica/usuario_ex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entrada_de_dados/Dados.java" beforeDir="false" afterPath="$PROJECT_DIR$/entrada_de_dados/Dados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Hello_java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/Hello_java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/ListaEx/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/ListaEx/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Math01/Math01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/Math01/Math01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Media_notas/Controle_notas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/Media_notas/Controle_notas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Relogio/ContadorV1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/Relogio/ContadorV1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Relogio/ContadorV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/Relogio/ContadorV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Relogio/contadorV2_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/Relogio/contadorV2_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/condicional/Notas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/condicional/Notas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/condicional/options.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/condicional/options.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/cont/contar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/cont/contar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/estudante/alunos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/estudante/alunos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/java_Variavel/Variavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/java_Variavel/Variavel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/math02/pitagoras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/math02/pitagoras.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/math03/ContadorV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/math03/ContadorV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/math03/calc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loterica/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loterica/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loterica/usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loterica/Registro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Loterica/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/Loterica/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Loterica/usuario.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,39 +39,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Aplicação.ContadorV1.executor": "Run",
-    "Aplicação.ContadorV2.executor": "Run",
-    "Aplicação.Controle_notas.executor": "Run",
-    "Aplicação.Crud.executor": "Run",
-    "Aplicação.Lista.executor": "Run",
-    "Aplicação.Relogio.ContadorV2.executor": "Run",
-    "Aplicação.alunos.executor": "Run",
-    "Aplicação.calc.executor": "Run",
-    "Aplicação.contadorV2.executor": "Run",
-    "Aplicação.contadorV2_5.executor": "Run",
-    "Aplicação.lista2.executor": "Run",
-    "Aplicação.relogio2.ContadorV2.executor": "Run",
-    "Application.Dados.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "Application.TAB.executor": "Run",
-    "Application.tab.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/OneDrive/Documentos/Java-pro1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "trusted.hosts",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Aplicação.ContadorV1.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.ContadorV2.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.Controle_notas.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.Crud.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.Lista.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.Relogio.ContadorV2.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.alunos.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.calc.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.contadorV2.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.contadorV2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.lista2.executor&quot;: &quot;Run&quot;,
+    &quot;Aplicação.relogio2.ContadorV2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dados.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TAB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tab.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive/Documentos/Java-pro1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;trusted.hosts&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Principal">
     <configuration name="ContadorV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math03.ContadorV2" />
@@ -136,6 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1749758428273</updated>
       <workItem from="1754997043895" duration="8249000" />
+      <workItem from="1755602970539" duration="7031000" />
     </task>
     <servers />
   </component>
