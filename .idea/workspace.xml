@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed64a7b2-9a50-4d61-9c92-2cd9bcac9e70" name="Alterações" comment="">
-      <change afterPath="$PROJECT_DIR$/Loterica/usuario_BD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loterica/usuario_ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fatura/Dados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loterica/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loterica/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loterica/usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loterica/Registro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Loterica/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java projetos/Loterica/Principal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Loterica/usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fatura/principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fatura/principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Loterica/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java projetos/Loterica/Registro.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,7 @@
     "Aplicação.contadorV2.executor": "Run",
     "Aplicação.contadorV2_5.executor": "Run",
     "Aplicação.lista2.executor": "Run",
+    "Aplicação.principal.executor": "Run",
     "Aplicação.relogio2.ContadorV2.executor": "Run",
     "Application.Dados.executor": "Run",
     "Application.Principal.executor": "Run",
