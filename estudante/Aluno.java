@@ -17,9 +17,9 @@ public class alunos {
         System.out.println(nota+"+");
         System.out.println("Telefone: 11 "+telefone);
         System.out.println("Nacionalidade: "+Nacionalidade);
-       
- 
-        
-        
+
+
+
+
     }
 }

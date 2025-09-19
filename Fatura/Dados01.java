@@ -1,25 +1,25 @@
-package Fatura;
+package Caixa;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-    public class Dados {
+    public class Dados01 {
     String nome;
     String email;
     String telefone;
     ArrayList<String> pessoas = new ArrayList<>();
-    public Dados(){
+    public Dados01(){
         nome = "";
         email = "";
         telefone = "";
     }
-    public Dados(String nom, String ema, String tel){
+    public Dados01(String nom, String ema, String tel){
        this.nome = nom;
         this.email = ema;
         this.telefone = tel;
     }
     //////////////// CADASTRAR//////////////////////////
-    public ArrayList Cadastrar(){
+    public  ArrayList Cadastrar(){
         Scanner scan = new Scanner(System.in);
         System.out.println("Digite um nome: ");
         nome = scan.nextLine();
