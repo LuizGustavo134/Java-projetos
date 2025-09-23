@@ -1,6 +1,6 @@
 package estudante;
 
-public class alunos {
+public class Aluno {
     public static void main(String[] args){
         String nome = "joao";
         String curso = "direito";
