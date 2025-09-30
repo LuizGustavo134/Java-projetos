@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ed64a7b2-9a50-4d61-9c92-2cd9bcac9e70" name="Alterações" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Banco1/principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Banco1/principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <recent name="UMC_netflix.src.entidade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContadorV2">
+  <component name="RunManager">
     <configuration name="ContadorV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math03.ContadorV2" />
       <module name="java projetos" />
@@ -137,6 +138,7 @@
       <workItem from="1758629268511" duration="657000" />
       <workItem from="1758629946769" duration="3504000" />
       <workItem from="1759232447086" duration="1112000" />
+      <workItem from="1759239019109" duration="331000" />
     </task>
     <servers />
   </component>

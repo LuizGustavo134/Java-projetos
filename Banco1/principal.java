@@ -1,6 +1,6 @@
 package Banco1;
 
-import Banco1.Registrar.Pessoa;
+import Banco1.Registrar.*;
 
 import java.util.Scanner;
 
